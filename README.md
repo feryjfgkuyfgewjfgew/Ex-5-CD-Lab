@@ -71,7 +71,8 @@ void yyerror(const char *msg) {
 
 ```
 # OUTPUT
-![Uploading WhatsApp Image 2025-05-08 at 14.16.40_de916148.jpg…]()
+![WhatsApp Image 2025-05-08 at 14 16 40_a0551e30](https://github.com/user-attachments/assets/9e6845f9-9ecd-41ff-b1b6-f74aec02f200)
+
 
 
 
